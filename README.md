@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
+| [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thakurrr-77/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -44,9 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
