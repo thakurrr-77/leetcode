@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thakurrr-77/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
