@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thakurrr-77/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -47,17 +48,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
+| [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
