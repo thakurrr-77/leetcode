@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0517-super-washing-machines](https://github.com/thakurrr-77/leetcode/tree/master/0517-super-washing-machines) |
+| [0540-single-element-in-a-sorted-array](https://github.com/thakurrr-77/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thakurrr-77/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/thakurrr-77/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
