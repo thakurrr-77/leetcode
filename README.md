@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/thakurrr-77/leetcode/tree/master/0041-first-missing-positive) |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0517-super-washing-machines](https://github.com/thakurrr-77/leetcode/tree/master/0517-super-washing-machines) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/thakurrr-77/leetcode/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
