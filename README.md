@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thakurrr-77/leetcode/tree/master/0002-add-two-numbers) |
+| [0441-arranging-coins](https://github.com/thakurrr-77/leetcode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/thakurrr-77/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thakurrr-77/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thakurrr-77/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
