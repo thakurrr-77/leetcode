@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/thakurrr-77/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thakurrr-77/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/thakurrr-77/leetcode/tree/master/0041-first-missing-positive) |
+| [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/thakurrr-77/leetcode/tree/master/0801-is-graph-bipartite) |
+## String
+|  |
+| ------- |
+| [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
+## Enumeration
+|  |
+| ------- |
+| [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
 <!---LeetCode Topics End-->
