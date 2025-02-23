@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/thakurrr-77/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/thakurrr-77/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/thakurrr-77/leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/thakurrr-77/leetcode/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
