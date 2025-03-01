@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/thakurrr-77/leetcode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/thakurrr-77/leetcode/tree/master/0127-word-ladder) |
 | [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/thakurrr-77/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/thakurrr-77/leetcode/tree/master/0542-01-matrix) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/thakurrr-77/leetcode/tree/master/0127-word-ladder) |
 | [2390-naming-a-company](https://github.com/thakurrr-77/leetcode/tree/master/2390-naming-a-company) |
 ## Bit Manipulation
 |  |
