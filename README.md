@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurrr-77/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/thakurrr-77/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/thakurrr-77/leetcode/tree/master/0041-first-missing-positive) |
 | [0130-surrounded-regions](https://github.com/thakurrr-77/leetcode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/thakurrr-77/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/thakurrr-77/leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/thakurrr-77/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/thakurrr-77/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
