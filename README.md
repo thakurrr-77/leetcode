@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thakurrr-77/leetcode/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/thakurrr-77/leetcode/tree/master/0441-arranging-coins) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thakurrr-77/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
